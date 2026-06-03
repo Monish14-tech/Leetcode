@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Monish14-tech/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Monish14-tech/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Monish14-tech/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Monish14-tech/Leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Monish14-tech/Leetcode/tree/master/0058-length-of-last-word) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Monish14-tech/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
