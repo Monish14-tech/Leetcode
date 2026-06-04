@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Monish14-tech/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Monish14-tech/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Monish14-tech/Leetcode/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Monish14-tech/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Monish14-tech/Leetcode/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
