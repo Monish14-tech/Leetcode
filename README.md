@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Monish14-tech/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Monish14-tech/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Monish14-tech/Leetcode/tree/master/0066-plus-one) |
+| [0219-contains-duplicate-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Monish14-tech/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Monish14-tech/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Trie
 |  |
 | ------- |
