@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Monish14-tech/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Monish14-tech/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Monish14-tech/Leetcode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Monish14-tech/Leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Monish14-tech/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Monish14-tech/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Monish14-tech/Leetcode/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Monish14-tech/Leetcode/tree/master/0242-valid-anagram) |
 ## Merge Sort
 |  |
 | ------- |
