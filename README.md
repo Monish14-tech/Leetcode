@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Monish14-tech/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Monish14-tech/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Monish14-tech/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Monish14-tech/Leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Monish14-tech/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Monish14-tech/Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
