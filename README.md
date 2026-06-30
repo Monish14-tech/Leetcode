@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Monish14-tech/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Monish14-tech/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Monish14-tech/Leetcode/tree/master/0070-climbing-stairs) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Monish14-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Monish14-tech/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/Monish14-tech/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Monish14-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Monish14-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
