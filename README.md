@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Monish14-tech/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Monish14-tech/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Monish14-tech/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Monish14-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Monish14-tech/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Monish14-tech/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Monish14-tech/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Trie
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Monish14-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Monish14-tech/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Monish14-tech/Leetcode/tree/master/0169-majority-element) |
+| [0220-contains-duplicate-iii](https://github.com/Monish14-tech/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Monish14-tech/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Monish14-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Merge Sort
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Monish14-tech/Leetcode/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Monish14-tech/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Monish14-tech/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
