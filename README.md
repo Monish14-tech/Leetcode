@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Monish14-tech/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Monish14-tech/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Monish14-tech/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Monish14-tech/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Monish14-tech/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Monish14-tech/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Monish14-tech/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Monish14-tech/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Monish14-tech/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Monish14-tech/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Monish14-tech/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Monish14-tech/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Monish14-tech/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Monish14-tech/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
