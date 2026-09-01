@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Monish14-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Monish14-tech/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Monish14-tech/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Monish14-tech/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Monish14-tech/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Monish14-tech/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Monish14-tech/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Monish14-tech/Leetcode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/Monish14-tech/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Monish14-tech/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
