@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Monish14-tech/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Monish14-tech/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Monish14-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Monish14-tech/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Monish14-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Monish14-tech/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Monish14-tech/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Monish14-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Monish14-tech/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Monish14-tech/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Monish14-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
