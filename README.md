@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Monish14-tech/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Monish14-tech/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Monish14-tech/Leetcode/tree/master/0067-add-binary) |
+| [0126-word-ladder-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Monish14-tech/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Monish14-tech/Leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Monish14-tech/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Monish14-tech/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Monish14-tech/Leetcode/tree/master/0049-group-anagrams) |
+| [0126-word-ladder-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0169-majority-element](https://github.com/Monish14-tech/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Monish14-tech/Leetcode/tree/master/0242-valid-anagram) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Monish14-tech/Leetcode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0090-subsets-ii) |
+| [0126-word-ladder-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0126-word-ladder-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -259,4 +262,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Monish14-tech/Leetcode/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0126-word-ladder-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
