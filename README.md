@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Monish14-tech/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Monish14-tech/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monish14-tech/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Monish14-tech/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Monish14-tech/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Monish14-tech/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Monish14-tech/Leetcode/tree/master/0065-valid-number) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Monish14-tech/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Monish14-tech/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Monish14-tech/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Monish14-tech/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Monish14-tech/Leetcode/tree/master/0118-pascals-triangle) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Monish14-tech/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Monish14-tech/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Monish14-tech/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Monish14-tech/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Monish14-tech/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Monish14-tech/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Monish14-tech/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
