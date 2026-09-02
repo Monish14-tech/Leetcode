@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Monish14-tech/Leetcode/tree/master/0292-nim-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Monish14-tech/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Monish14-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Monish14-tech/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Monish14-tech/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Monish14-tech/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Monish14-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Monish14-tech/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
