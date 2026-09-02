@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Monish14-tech/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Monish14-tech/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Monish14-tech/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Monish14-tech/Leetcode/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Monish14-tech/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Monish14-tech/Leetcode/tree/master/0242-valid-anagram) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Monish14-tech/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Monish14-tech/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Monish14-tech/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Monish14-tech/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Monish14-tech/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Monish14-tech/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Monish14-tech/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
