@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Monish14-tech/Leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Monish14-tech/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Monish14-tech/Leetcode/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Monish14-tech/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Monish14-tech/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Monish14-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Monish14-tech/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Monish14-tech/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Monish14-tech/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Monish14-tech/Leetcode/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Monish14-tech/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Monish14-tech/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Monish14-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Monish14-tech/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Monish14-tech/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Monish14-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Monish14-tech/Leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Monish14-tech/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Monish14-tech/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Monish14-tech/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Merge Sort
