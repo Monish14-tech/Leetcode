@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Monish14-tech/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Monish14-tech/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Monish14-tech/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Monish14-tech/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Monish14-tech/Leetcode/tree/master/0055-jump-game) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Monish14-tech/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Monish14-tech/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0126-word-ladder-ii) |
 ## Divide and Conquer
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Monish14-tech/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Monish14-tech/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Monish14-tech/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Monish14-tech/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Monish14-tech/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Monish14-tech/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Monish14-tech/Leetcode/tree/master/0088-merge-sorted-array) |
